@@ -1,0 +1,56 @@
+//https://coinmarketcap.com/api/documentation/v1/#operation/getV1ExchangeInfo
+{
+   "status":{
+      "timestamp":"2022-05-15T20:38:03.222Z",
+      "error_code":0,
+      "error_message":null,
+      "elapsed":9,
+      "credit_count":1,
+      "notice":null
+   },
+   "data":{
+      "89":{
+         "id":89,
+         "name":"Coinbase Exchange",
+         "slug":"coinbase-exchange",
+         "description":null,
+         "notice":"",
+         "logo":"https://s2.coinmarketcap.com/static/img/exchanges/64x64/89.png",
+         "countries":[
+            
+         ],
+         "fiats":[
+            "USD",
+            "EUR",
+            "GBP"
+         ],
+         "urls":{
+            "website":[
+               "https://pro.coinbase.com"
+            ],
+            "fee":[
+               "https://support.pro.coinbase.com/customer/en/portal/articles/2945310-fees"
+            ],
+            "blog":[
+               "https://blog.coinbase.com/"
+            ],
+            "twitter":[
+               "https://twitter.com/CoinbasePro"
+            ],
+            "chat":[
+               
+            ]
+         },
+         "tags":null,
+         "type":"",
+         "date_launched":"2014-05-24T00:00:00.000Z",
+         "is_hidden":0,
+         "is_redistributable":null,
+         "maker_fee":0,
+         "taker_fee":0,
+         "spot_volume_usd":1609107170.7572737,
+         "spot_volume_last_updated":"2022-05-15T20:35:16.001Z",
+         "weekly_visits":2191082
+      }
+   }
+}
